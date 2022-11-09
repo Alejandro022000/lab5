@@ -1,10 +1,7 @@
-#include <iostream>
-#include <string>
-#include <cstring>
+
 #include <map>
 #include <fstream>
 #include <algorithm>
-#include <bits/stdc++.h>
 #include "ArgumentManager.h"
 
 using namespace std;

@@ -19,7 +19,7 @@ ArgumentManager am(argc, argv);
 ifstream input(am.get("input"));
 ofstream output(am.get("output"));
 /*
-ifstream input("input3.txt");
+ifstream input("input333.txt");
 ofstream output("output.txt");
 */
 while(input >> single_word){
